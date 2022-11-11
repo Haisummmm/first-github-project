@@ -1,10 +1,17 @@
 div {
-    color: aqua;
-    background-color: black;
+    color: red;
     width: 1500px;
     max-width: 100%;
     width: 100vw;
-    height: 100vh;
     max-height: 100%;
+    border: 5px dotted black;
+    font-size: 30px;
+    font-weight: bold;
+    font-family: 'Roboto' , sans-serif;
 }
-
+img {
+    max-width: 100%;
+    max-height: 100%;
+    width: 500px;
+    border: 5px solid red;
+}
